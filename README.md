@@ -1,4 +1,4 @@
-Link to repository: https://github.com/csumaoang/webd3012_coding_assigment11
+Link to repository: [https://github.com/csumaoang/webd3012_coding_assigment11](https://github.com/csumaoang/WEBD-3012_coding_assigment11)
 
 # Instructions for running 
 
